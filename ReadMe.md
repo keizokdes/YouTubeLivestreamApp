@@ -20,13 +20,13 @@ This document outlines the high-level and detailed system architecture of the Yo
 ### Architecture Diagrams
 
 - System Overview  
-  ![System Overview](diagrams/system-overview.png)
+  ![System Overview](docs/diagrams/system-overview.png)
 
 - Sequence Diagram  
-  ![Data Flow](diagrams/sequence-overview.png)
+  ![Data Flow](docs/diagrams/sequence-overview.png)
 
 - Database Schema\
-  ![Database Schema](diagrams/database-schema.png)
+  ![Database Schema](docs/diagrams/database-schema.png)
 
 
 ### Components
@@ -39,7 +39,6 @@ This document outlines the high-level and detailed system architecture of the Yo
 | Frontend          | React Native       | Mobile interface |
 | Infra             | Docker, AWS EC2    | Containerized deployment |
 
-[<- Back to README](../README.md)
 
 ## Engineering Decisions
 
