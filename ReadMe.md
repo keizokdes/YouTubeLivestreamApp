@@ -86,14 +86,7 @@ npm start
 
 ## My contribution and limitations
 
-## 📁 Documentation Overview
 
-- [System Architecture](docs/ARCHITECTURE.md)
-- [API Documentation](docs/API_DOCUMENTATION.md)
-- [Development Setup](docs/DEVELOPMENT.md)
-- [Testing Strategy](docs/TESTING.md)
-- [Technical Decisions](docs/TECHNICAL_DECISIONS.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
 
 
 
