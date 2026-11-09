@@ -13,7 +13,6 @@ This document outlines the high-level and detailed system architecture of the Yo
 ### Business & Technical Requirements
 
 - Monitor and track YouTube livestream comments and donations in real time
-- *Support 100+ concurrent streams with sub-200ms API response time
 - Maintain high availability and fault tolerance
 - Provide analytics dashboard and developer-friendly API
 
